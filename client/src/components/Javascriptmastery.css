@@ -1,0 +1,64 @@
+.javascriptmastery{
+    width: 80%;
+   margin: auto;
+   margin-top: 20px;
+   border-radius: 50px;
+   background-color: aliceblue;
+
+}
+
+.javascriptmastery1{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.js{
+    margin: auto;
+}
+
+.jm{
+    height: 8em;
+    width: 8em;
+}
+
+.jm1{
+    height: 5em;
+    width: 5em;
+}
+
+.media{
+    margin-top: 50px;
+}
+
+.jm2{
+    width: 80%;
+    /* height: auto; */
+    margin: auto;
+    margin-top: 25px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.mq{
+  
+   color: green;
+   margin-left: 23%;
+}
+
+.datatypes{
+    width: 30%;
+    margin: auto;
+    background-color: black;
+    color: black;
+}
+
+.dt{
+    margin-left: 40px;
+    color: red;
+}
+
+.pagination{
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+}
